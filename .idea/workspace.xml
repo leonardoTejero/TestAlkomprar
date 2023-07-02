@@ -6,33 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b1f2eced-7b1a-4780-a340-4239fd1ab4d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/MyAccountPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductResultsListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductResultsListPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/RegisterPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/HomeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/HomeSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/MyAccountSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/MyAccountSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductResultsListSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductResultsListSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/RegisterSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/RegisterSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/EsperaExplicita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/EsperaExplicita.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/Excel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/Excel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/RandomIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/RandomIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/runners/RegisterRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/runners/RegisterRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/AddToCartStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/AddToCartStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/CommonStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/CommonStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/RegisterStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/RegisterStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Data/Datos.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Data/Datos.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/AddProductToCart.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/AddProductToCart.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Register.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Register.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
