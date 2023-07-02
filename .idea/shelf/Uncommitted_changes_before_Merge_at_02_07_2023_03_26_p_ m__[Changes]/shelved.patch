@@ -1,0 +1,155 @@
+Index: .idea/sonarlint/securityhotspotstore/index.pb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/sonarlint/securityhotspotstore/index.pb b/.idea/sonarlint/securityhotspotstore/index.pb
+--- a/.idea/sonarlint/securityhotspotstore/index.pb	(revision 33f8a0b1046a6c75638b6fa3c28a6e83bc916dab)
++++ b/.idea/sonarlint/securityhotspotstore/index.pb	(date 1688329475463)
+@@ -1,0 +1,28 @@
++
++y
++Isrc/test/java/com/alkomprar/stepDefinitions/AddToCartStepDefinitions.java,e\d\ed52e3c3bf218b988a1f9d51cd23c7cb7d85e678
++e
++5src/main/java/com/alkomprar/steps/MyAccountSteps.java,9\3\935bd57ba77fa0a16a6845460d8d2f97509fa47f
++<
++build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
++`
++0src/main/java/com/alkomprar/steps/HomeSteps.java,d\7\d74bbfd788b8da0050363682bbc235b863409e5f
++n
++>src/main/java/com/alkomprar/steps/ProductResultsListSteps.java,c\5\c56cad1aeef7e31cdfcdf377646a70c8de973a9b
++d
++4src/main/java/com/alkomprar/steps/RegisterSteps.java,c\7\c7200e30a40141c75cce3d3b0abc719f7ea287ba
++g
++7src/test/java/com/alkomprar/runners/RegisterRunner.java,2\f\2f9e2ae2a4442ef8f90b07b3799f75dc1112766b
++i
++9src/main/java/com/alkomprar/pageObject/MyAccountPage.java,c\6\c651a72071b49f0f2a6fa20780f3de7b56e5b92c
++g
++7src/main/java/com/alkomprar/pageObject/ProductPage.java,5\b\5b07c559561f2c23d3efcf1f97a8a9621cb1c233
++r
++Bsrc/main/java/com/alkomprar/pageObject/ProductResultsListPage.java,8\4\84a1c74c38ae3348b21190c8d62f5f44df6610e4
++h
++8src/main/java/com/alkomprar/pageObject/RegisterPage.java,9\a\9a647a0241f461ff356b05afee4d3f92f6e477dc
++c
++3src/main/java/com/alkomprar/steps/ProductSteps.java,4\8\488a60dbf8bc926632e741c17534da8a81222c80
++:
++
++.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+\ No newline at end of file
+Index: .idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"GradleSettings\">\r\n    <option name=\"linkedExternalProjectsSettings\">\r\n      <GradleProjectSettings>\r\n        <option name=\"distributionType\" value=\"DEFAULT_WRAPPED\" />\r\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\r\n        <option name=\"gradleHome\" value=\"$PROJECT_DIR$/../../Gradle/gradle-8.1.1-bin/gradle-8.1.1\" />\r\n        <option name=\"modules\">\r\n          <set>\r\n            <option value=\"$PROJECT_DIR$\" />\r\n          </set>\r\n        </option>\r\n      </GradleProjectSettings>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/gradle.xml b/.idea/gradle.xml
+--- a/.idea/gradle.xml	(revision 33f8a0b1046a6c75638b6fa3c28a6e83bc916dab)
++++ b/.idea/gradle.xml	(date 1688329482169)
+@@ -1,5 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="GradleMigrationSettings" migrationVersion="1" />
+   <component name="GradleSettings">
+     <option name="linkedExternalProjectsSettings">
+       <GradleProjectSettings>
+Index: .idea/sonarlint/issuestore/index.pb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/sonarlint/issuestore/index.pb b/.idea/sonarlint/issuestore/index.pb
+--- a/.idea/sonarlint/issuestore/index.pb	(revision 33f8a0b1046a6c75638b6fa3c28a6e83bc916dab)
++++ b/.idea/sonarlint/issuestore/index.pb	(date 1688329475462)
+@@ -1,0 +1,28 @@
++
++y
++Isrc/test/java/com/alkomprar/stepDefinitions/AddToCartStepDefinitions.java,e\d\ed52e3c3bf218b988a1f9d51cd23c7cb7d85e678
++e
++5src/main/java/com/alkomprar/steps/MyAccountSteps.java,9\3\935bd57ba77fa0a16a6845460d8d2f97509fa47f
++<
++build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
++`
++0src/main/java/com/alkomprar/steps/HomeSteps.java,d\7\d74bbfd788b8da0050363682bbc235b863409e5f
++n
++>src/main/java/com/alkomprar/steps/ProductResultsListSteps.java,c\5\c56cad1aeef7e31cdfcdf377646a70c8de973a9b
++d
++4src/main/java/com/alkomprar/steps/RegisterSteps.java,c\7\c7200e30a40141c75cce3d3b0abc719f7ea287ba
++g
++7src/test/java/com/alkomprar/runners/RegisterRunner.java,2\f\2f9e2ae2a4442ef8f90b07b3799f75dc1112766b
++i
++9src/main/java/com/alkomprar/pageObject/MyAccountPage.java,c\6\c651a72071b49f0f2a6fa20780f3de7b56e5b92c
++g
++7src/main/java/com/alkomprar/pageObject/ProductPage.java,5\b\5b07c559561f2c23d3efcf1f97a8a9621cb1c233
++r
++Bsrc/main/java/com/alkomprar/pageObject/ProductResultsListPage.java,8\4\84a1c74c38ae3348b21190c8d62f5f44df6610e4
++h
++8src/main/java/com/alkomprar/pageObject/RegisterPage.java,9\a\9a647a0241f461ff356b05afee4d3f92f6e477dc
++:
++
++.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
++c
++3src/main/java/com/alkomprar/steps/ProductSteps.java,4\8\488a60dbf8bc926632e741c17534da8a81222c80
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"b1f2eced-7b1a-4780-a340-4239fd1ab4d7\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Rta4ob239cXqg1JGqasIRXY3oI\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"b1f2eced-7b1a-4780-a340-4239fd1ab4d7\" name=\"Changes\" comment=\"\" />\r\n      <created>1688071646229</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1688071646229</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 33f8a0b1046a6c75638b6fa3c28a6e83bc916dab)
++++ b/.idea/workspace.xml	(date 1688329417388)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b1f2eced-7b1a-4780-a340-4239fd1ab4d7" name="Changes" comment="" />
++    <list default="true" id="b1f2eced-7b1a-4780-a340-4239fd1ab4d7" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -14,22 +16,34 @@
+     <projectState path="$PROJECT_DIR$">
+       <ProjectState />
+     </projectState>
++  </component>
++  <component name="ExternalProjectsManager">
++    <system id="GRADLE">
++      <state>
++        <task path="$PROJECT_DIR$">
++          <activation />
++        </task>
++        <projects_view />
++      </state>
++    </system>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="2Rta4ob239cXqg1JGqasIRXY3oI" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
