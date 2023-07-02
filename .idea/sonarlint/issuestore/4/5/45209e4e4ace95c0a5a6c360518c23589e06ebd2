@@ -1,0 +1,7 @@
+
+X
+java:S1854"=Remove this useless assignment to local variable "myWaitVar".( ¾®²øÿÿÿÿ
+I
+java:S1481".Remove this unused "myWaitVar" local variable.( ¾®²øÿÿÿÿ
+R
+java:S1874"7Remove this use of "pageLoadTimeout"; it is deprecated.(ÆËæ­üÿÿÿÿ

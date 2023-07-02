@@ -1,18 +1,10 @@
-package com.amazon.utils;
-/*
- * @(#) IndexRandom.java 11.0
- * Copyright 2023 SQA. Todos los derechos reservados.
- */
+package com.alkomprar.utils;
 
 import java.util.Random;
 
-/**
- * @autor Rafael Chica
- * @Fecha: --o--
- */
-public class IndexRandom {
-    public static int generarIndiceAleatorio(int tamanoArreglo) {
+public class RandomIndex {
+    public static int indiceAleatorio(int numeroMaximo) {
         Random random = new Random();
-        return random.nextInt(tamanoArreglo);
+        return random.nextInt(numeroMaximo);
     }
 }
