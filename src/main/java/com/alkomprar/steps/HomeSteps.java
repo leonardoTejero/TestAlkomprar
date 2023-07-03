@@ -26,7 +26,6 @@ public class HomeSteps {
     public void abrirNavegador() {
 
         homePage.openUrl("https://www.alkomprar.com/");
-//        homePage.getDriver().manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
     }
 
     @Step("Hacer click en mi cuenta")
